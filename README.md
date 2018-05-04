@@ -6,7 +6,7 @@ This repository is archiving a few SPS data
 , to find discontinuities that could be advertisment or transition between movie series !
 
 It helps a lot finding where to cut (e.g. start/stop marker within DVBcut software)
-, in fact, it does the roughtly the job
+, in fact, it does roughtly the job
 , one may ajust by a few frames only.
 
 SPS data is in TIF format, for fast archiving, as it is uncompressed regarding to PNG.
