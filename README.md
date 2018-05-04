@@ -1,12 +1,16 @@
-output of DVBcut Single Pixel Sequence addon
+output of [DVBcut](https://github.com/coupdair/dvbcut) with [Single Pixel Sequence addon](https://github.com/coupdair/dvbcut.src)
+, i.e. advertisment cut !
 
-repository is archiving a few SPS data
+This repository is archiving a few SPS data
 , i.e. Single Pixel Sequence along time line
-, to find discontinuities that could be advertisment !
+, to find discontinuities that could be advertisment or transition between movie series !
 
 It helps a lot finding where to cut (e.g. start/stop marker within DVBcut software)
 , it facts it does the roughtly the job
 , one may ajust by a few frames only.
+
+SPS data is in TIF format, for fast archiving, as it is uncompressed regarding to PNG.
+[CImg](https://github.com/coupdair/CImg) library plugin is handling this very fast.
 
 # data example
 
