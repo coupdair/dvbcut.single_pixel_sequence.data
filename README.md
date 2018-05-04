@@ -19,4 +19,8 @@ flat lane is the movie, oscillation parts are advertisments.
 
 ## pixel within channel logo
 
-TODO
+pixel within white of the channel logo for "Underground" movie from DVB-T stream:
+flat lane is the movie, oscillation parts are channel streaming advertisments
+, i.e. begining and end of the movie.
+
+![pixel within white logo](Underground_20180501.mpeg_SPSgraph.png)
